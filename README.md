@@ -1,7 +1,7 @@
 # Nxbootcamp_homework_java
 This repository contains completed homework assignments for the course of automated testing in java from Nexign.
 
-# Домашние задания по NX Bootcamp по Java
+# Домашние задания NX Bootcamp по Java
 ## Занятие 1 [Основы синтаксиса Java](https://github.com/Sobol-EV/Nxbootcamp_homework_java/tree/main/src/main/java/nx/bootcamp/homework1)
 ### Задание 1.1 [Текст задания](https://github.com/Sobol-EV/Nxbootcamp_homework_java/blob/main/src/main/java/nx/bootcamp/homework1/Homework1_1.md)
 ### Решение 1.1 [Решение (Код)](https://github.com/Sobol-EV/Nxbootcamp_homework_java/blob/main/src/main/java/nx/bootcamp/homework1/Homework1_1.java)
