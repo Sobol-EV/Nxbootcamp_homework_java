@@ -30,3 +30,13 @@ This repository contains completed homework assignments for the course of automa
 ### Решение 5.1 [Решение (Код)](https://github.com/Sobol-EV/Nxbootcamp_homework_java/tree/main/src/main/java/nx/bootcamp/homework5_1)
 ### Задание 5.2 [Текст задания](https://github.com/Sobol-EV/Nxbootcamp_homework_java/blob/main/src/main/java/nx/bootcamp/homework5_2/Homework5_2.md)
 ### Решение 5.2 [Решение (Код)](https://github.com/Sobol-EV/Nxbootcamp_homework_java/tree/main/src/main/java/nx/bootcamp/homework5_2)
+## Занятие 6 [Исключения]
+### Задание 6.1 [Текст задания](https://github.com/Sobol-EV/Nxbootcamp_homework_java/blob/main/src/main/java/nx/bootcamp/homework6_1/Homework6_1.md)
+### Решение 6.1 [Решение (Код)](https://github.com/Sobol-EV/Nxbootcamp_homework_java/tree/main/src/main/java/nx/bootcamp/homework6_1)
+### Задание 6.2 [Текст задания](https://github.com/Sobol-EV/Nxbootcamp_homework_java/blob/main/src/main/java/nx/bootcamp/homework6_2/Homework6_2.md)
+### Решение 6.2 [Решение (Код)](https://github.com/Sobol-EV/Nxbootcamp_homework_java/tree/main/src/main/java/nx/bootcamp/homework6_2)
+## Занятие 7 [Generics и списки]
+### Задание 7.1 [Текст задания](https://github.com/Sobol-EV/Nxbootcamp_homework_java/blob/main/src/main/java/nx/bootcamp/homework7_1/Homework7_1.md)
+### Решение 7.1 [Решение (Код)](https://github.com/Sobol-EV/Nxbootcamp_homework_java/tree/main/src/main/java/nx/bootcamp/homework7_1)
+### Задание 7.2 [Текст задания](https://github.com/Sobol-EV/Nxbootcamp_homework_java/blob/main/src/main/java/nx/bootcamp/homework7_2/Homework7_2.md)
+### Решение 7.2 [Решение (Код)](https://github.com/Sobol-EV/Nxbootcamp_homework_java/tree/main/src/main/java/nx/bootcamp/homework7_2)
